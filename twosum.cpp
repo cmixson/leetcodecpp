@@ -20,3 +20,16 @@ public:
     } 
    
 };
+
+/*  int main(){
+    Solution solution;
+
+    vector<int> nums = {2,7,11,15};
+    solution.twoSum(nums, 9);
+           or
+    vector<int> sol = solution.twoSum(nums, 9); //if you want to see the answer
+    cout << "[";
+    for (int i=0; i<sol.size(); ++i)
+    std::cout << sol[i] << " ";
+    cout << "]";
+} */
